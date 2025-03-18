@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Skills
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,r,kotlin,c,cpp,html,css,latex)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,githubactions&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ai,opencv,pytorch,tensorflow,sklearn,fastapi&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=figma,androidstudio,vscode,&perline=8)](https://skillicons.dev)
