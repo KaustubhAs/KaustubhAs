@@ -51,8 +51,6 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
 #### 🧠 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -61,16 +59,12 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
----
-
 #### 🤖 Generative AI & LLMs
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FF8C00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=for-the-badge)
-
----
 
 #### 📊 Data Science & Statistics
 ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-2F4F4F?style=for-the-badge)
@@ -80,8 +74,6 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 ![LSTMs](https://img.shields.io/badge/LSTM-DC143C?style=for-the-badge)
 ![DNNs](https://img.shields.io/badge/DNNs-800000?style=for-the-badge)
 
----
-
 #### ☁️ Cloud, Databases & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -90,15 +82,11 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
 #### 🗄️ Databases & Data Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
 
 #### 📈 Visualization & Analytics
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -107,11 +95,10 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
-
 #### 🧪 Testing & Dev
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 
+---
 
 **Machine Learning & AI**  
 - Supervised & Unsupervised Learning, Feature Engineering  
