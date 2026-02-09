@@ -1,6 +1,6 @@
 ## Hi, I’m Kaustubh Sonawane 👋  
 **Machine Learning Engineer | Data Scientist | GenAI & ML Systems Builder**  
-🎓 MS Computer Science @ North Carolina State University (GPA: 3.7)
+🎓 MS Computer Science @ North Carolina State University
 
 <!--
 **KaustubhAs/KaustubhAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -116,12 +116,6 @@ My goal is to grow into a full-stack ML / AI engineer who can:
 - SQL-based analytics & ETL pipelines  
 - Time-series forecasting & lifecycle modeling  
 - Data quality, metric consistency, experimentation  
-
-**Tech Stack**  
-- **Languages:** Python, SQL, R, C++, Kotlin  
-- **Frameworks:** PyTorch, TensorFlow, FastAPI, LangChain, Hugging Face, Scikit-learn  
-- **Tools & Cloud:** AWS, Azure, Docker, GitHub Actions, PowerBI, Tableau  
-- **Databases:** PostgreSQL, SQLite, SQLAlchemy  
 
 ---
 
